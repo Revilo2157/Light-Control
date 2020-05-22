@@ -1,0 +1,6 @@
+module Pods_LightControl {
+  umbrella header "Pods-LightControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
